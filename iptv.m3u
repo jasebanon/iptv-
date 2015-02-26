@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:0,SKY NEWS
 http://37.48.118.32/live/skynews.stream/playlist.m3u8
 #EXTINF:0,CNN
@@ -8,9 +7,6 @@ http://37.48.118.32/live/cnn.stream/playlist.m3u8
 http://37.48.118.32/live/bbcnews.stream/playlist.m3u8
 #EXTINF:0,CNBC
 http://37.48.118.32/live/cnbc.stream/playlist.m3u8
- 
-
-
 #EXTINF:0, Sky Sports 1
 http://198.27.94.105/hls/skysports1.m3u8
 #EXTINF:0, Sky Sports 2
