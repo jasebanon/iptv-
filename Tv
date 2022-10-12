@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1,cbc
+https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
+#EXTINF:-1,cbc2
+https://1740288887.rsc.cdn77.org/1740288887/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CBC TV 8 Barbados
+#EXTIMG: https://upload.wikimedia.org/wikipedia/en/thumb/9/90/CBC_TV_8.png/150px-CBC_TV_8.png
+https://1740288887.rsc.cdn77.org/1740288887/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.wegatherinbarbados.com/wp-content/uploads/2018/08/WEGATHERIN-WIDE2-b.png",cbc barbados 1
+https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
+
+
